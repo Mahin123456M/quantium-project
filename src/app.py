@@ -43,7 +43,7 @@ app.layout = html.Div([
     
     html.Div([
         html.P(
-            "This interactive chart visualizes Pink Morsel sales over time. Use the radio buttons above to filter by region and answer whether sales were higher before or after the price increase on January 15, 2021.",
+            "This interactive chart visualizes Pink Morsel sales over time. Use the radio buttons above to filter by region",
             className='description'
         )
     ])
