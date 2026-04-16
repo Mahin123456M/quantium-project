@@ -1,0 +1,52 @@
+/* Main container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+/* Header styling */
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #2c3e50;
+    font-family: Arial, sans-serif;
+}
+
+/* Radio button container */
+.radio-container {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Radio button label */
+.radio-label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+
+/* Radio items styling */
+.radio-items label {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+/* Chart container */
+.chart-container {
+    border: 2px solid #ecf0f1;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+/* Description text */
+.description {
+    text-align: center;
+    font-size: 14px;
+    color: #7f8c8d;
+    margin-top: 20px;
+}
